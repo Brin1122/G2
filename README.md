@@ -5,6 +5,6 @@
 ### 2. Purpose in English Learning
 - Teachers can directly play out for students how new words are used in certain situations and in which sentences. Moreover, by showing scenes of how newly learned expressions are used in daily life through videos, __students can listen to and imitate the intonation of those moments__, thereby improving their intonation skills in real-life situations.
 - _The important thing is that you can hear the pronunciation and intonation of entire sentences, not just individual words._
-
-
-
+### 3. Unique Advantages
+- __From the teacher's perspective__, it provides a variety of stories and scenarios that can be utilized as teaching materials. This helps encourage student participation and diversifies classroom activities, serving as diverse learning resources. __Additionally,__ Yarn can offer personalized learning experiences tailored to students' proficiency levels and interests. This enhances learning efficiency and maintains student motivation through personalized learning experiences.
+- __From the students' perspective__, Yarn allows students to enhance their pronunciation skills by listening to and imitating various stories. Through this process, students can acquire correct pronunciation. __Secondly,__ Yarn provides videos showcasing various situations to help students acquire natural intonation. This aids in building confidence for real-life English conversations. __Lastly,__ through Yarn, students can record and compare their pronunciation and intonation for self-assessment. This enables students to assess their progress and identify areas for improvement.
