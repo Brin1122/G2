@@ -1,4 +1,4 @@
-# 📖G2_Project1
+# 📖Project1_G2
 ## A Digital tool for language teaching and learning : _'Yarn'_
 ### 1. Primary Function✨
 - It allows users to search for specific words, phrases, or sentences and then __retrieves scenes from movies, dramas, or animations where those words or phrases are spoken__. The retrieved scenes are typically short, ranging from 1 to 4 seconds, and users may have the option to save or create GIFs from these scenes. This feature enhances the user experience by providing visual context for the searched content.
