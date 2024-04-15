@@ -31,3 +31,6 @@
 - Since it only plays the sentences containing the searched expression, the length of the video is very short, usually around 1 to 4 seconds.
 - It doesn't show the sentences before or after, so __it's impossible for students to understand the context of the situation just from one video__. It's cumbersome to search again to find sentences that can be used before and after.
 - _In other words, it's a useful site for studying pronunciation and intonation rather than understanding the context of the sentences._
+---
+### 7. Viedo
+[Viedo](https://youtu.be/DbJmScYfWq4?feature=shared)
