@@ -33,4 +33,4 @@
 - _In other words, it's a useful site for studying pronunciation and intonation rather than understanding the context of the sentences._
 ---
 ### 7. Viedo
-[Viedo](https://youtu.be/DbJmScYfWq4?feature=shared)
+- [Viedo](https://youtu.be/DbJmScYfWq4?feature=shared)
