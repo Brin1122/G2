@@ -11,6 +11,7 @@
 - Teachers can directly play out for students how new words are used in certain situations and in which sentences.
 - Moreover, by showing scenes of how newly learned expressions are used in daily life through videos, __students can listen to and imitate the intonation of those moments__, thereby improving their intonation skills in real-life situations.
 - _The important thing is that you can hear the pronunciation and intonation of entire sentences, not just individual words._
+- Additionally, students can also participate in a quiz where they listen to dialogues and guess the titles of movies or dramas.
 ---
 ### 3. Unique Advantages👍
 - __Various learning materials__ : __From the teacher's perspective__, it provides a variety of stories and scenarios that can be utilized as teaching materials. This helps encourage student participation and diversifies classroom activities, serving as diverse learning resources.
